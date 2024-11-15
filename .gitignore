@@ -4,3 +4,5 @@
 
 /.env
 .next/
+.vs/
+node_modules/
